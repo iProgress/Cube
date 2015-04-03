@@ -1,9 +1,0 @@
-{
-    "name": "cube",
-    "private": true,
-    "dependencies": {
-        "jquery": "~1.11.1",
-        "howler": "~1.1.25",
-        "leapjs": "~0.6.2"
-    }
-}
