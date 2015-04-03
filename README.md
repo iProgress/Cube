@@ -8,9 +8,9 @@ Audio / Visual experience using Leap Motion
 - CoffeeScript
 - Bower
 
-Run **npm install** and **bower install** to install dependencies
+Run ```npm install``` and ```bower install``` to install dependencies
 
-Run **grunt serve** to run the app
+Run ```grunt serve``` to run the app
 
 ## Instructions
 
